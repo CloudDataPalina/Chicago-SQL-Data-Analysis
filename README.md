@@ -55,17 +55,17 @@ The root folder contains Jupyter Notebooks, SQLite database file, screenshots, v
 
 ## 🔎 Analysis Overview
 
-### 1️⃣ [Socioeconomic Analysis] (notebboks/crime_schools_analysis.ipynb)
+### 1️⃣ [Socioeconomic Analysis](notebooks/socioeconomic_analysis.ipynb)
 - Load and explore Chicago community indicators (income, poverty, Hardship Index).
 - SQL queries show top areas by poverty, hardship index and high income.
 - Scatter plot: Per Capita Income vs. Hardship Index.
 
-### 2️⃣ Crime & Schools Analysis
+### 2️⃣ [Crime & Schools Analysis](notebooks/crime_schools_analysis.ipynb)
 - Combine crime data with public school information.
 - Identify neighborhoods with high crime around schools.
 - Compare school attendance with socioeconomic issues.
 
-### 3️⃣ IBM Db2 Objects
+### 3️⃣ [IBM Db2 Objects](notebooks/db_objects_db2.ipynb)
 - Created a VIEW with friendly column aliases.
 - Developed and tested a stored procedure `UPDATE_LEADERS_SCORE` with transactions (COMMIT/ROLLBACK).
 - Positive and negative scenarios verified.
