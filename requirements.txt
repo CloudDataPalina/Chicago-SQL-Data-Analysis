@@ -1,4 +1,7 @@
 ipython-sql
 prettytable
+pandas
+matplotlib
 seaborn
 sqlalchemy>=2.0
+
