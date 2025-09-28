@@ -3,6 +3,10 @@
 ✅ **Project Status**  
 This project is functionally complete and tested, but open for further improvements and enhancements.
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-queries-green?logo=postgresql&logoColor=white)
+![IBM Db2](https://img.shields.io/badge/IBM%20Db2-cloud-lightgrey?logo=ibm&logoColor=white)
+
 ---
 
 ## 📓 Notebooks
