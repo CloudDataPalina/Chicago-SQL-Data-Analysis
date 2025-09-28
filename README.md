@@ -55,7 +55,7 @@ The root folder contains Jupyter Notebooks, SQLite database file, screenshots, v
 
 ## 🔎 Analysis Overview
 
-### 1️⃣ Socioeconomic Analysis
+### 1️⃣ [Socioeconomic Analysis] (notebboks/crime_schools_analysis.ipynb)
 - Load and explore Chicago community indicators (income, poverty, Hardship Index).
 - SQL queries show top areas by poverty, hardship index and high income.
 - Scatter plot: Per Capita Income vs. Hardship Index.
