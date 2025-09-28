@@ -73,7 +73,9 @@ The root folder contains Jupyter Notebooks, SQLite database file, screenshots, v
 ---
 
 ## 📊 Visual Insights
-- **Scatter plots:** income vs. hardship index - [View](images/income_vs_hardship.svg), poverty vs. school safety score -[View](images/poverty_vs_school_safety.svg).
+- **Scatter plots:**
+  - [income vs. hardship index](images/income_vs_hardship.svg)
+  - [poverty vs. school safety score](images/poverty_vs_school_safety.svg)
 - **Tables:** top neighborhoods by poverty, crime and school attendance.
 - **Screenshots:** SQL queries, creation of VIEW and PROCEDURE in Db2 Console.
 
