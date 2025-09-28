@@ -114,7 +114,7 @@ This project demonstrates how to combine SQL, Python and cloud databases for com
 ---
 
 ## 👩‍💻 Author
-**Polina Krasiuk**  
+**Palina Krasiuk**  
 Aspiring Cloud Data Engineer | ex-Senior Accountant  
 
 [LinkedIn](https://www.linkedin.com/in/palina-krasiuk-954403472/) • [GitHub Portfolio](https://github.com/CloudDataPalina)
