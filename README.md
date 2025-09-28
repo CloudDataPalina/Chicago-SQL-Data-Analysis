@@ -37,7 +37,7 @@ Chicago-SQL-Data-Analysis/
 
 ```
 
-The root folder contains Jupyter Notebooks (English), SQLite database file, screenshots, visualizations and `requirements.txt`.
+The root folder contains Jupyter Notebooks, SQLite database file, screenshots, visualizations and `requirements.txt`.
 
 ---
 
