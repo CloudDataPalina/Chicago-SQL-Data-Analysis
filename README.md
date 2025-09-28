@@ -91,13 +91,13 @@ The root folder contains Jupyter Notebooks (English), SQLite database file, scre
    pip install -r requirements.txt
    ```
 
-### 📓 Open the notebooks
+3. ***Open the notebooks***
 
 - `notebooks/socioeconomic_analysis.ipynb`
 - `notebooks/crime_schools_analysis.ipynb`
 - `notebooks/db_objects_db2.ipynb`
 
-### (Optional) Reproduce Db2 objects
+4. ***(Optional) Reproduce Db2 objects***
 - Log in to **IBM Db2 Console → Run SQL**  
 - Execute `CREATE VIEW`, `CREATE PROCEDURE` and test calls  
 
