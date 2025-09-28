@@ -33,6 +33,7 @@ Chicago-SQL-Data-Analysis/
 │   ├── crime_schools_analysis.ipynb
 │   └── db_objects_db2.ipynb
 ├── requirements.txt           ← Python dependencies
+├── socioeconomic.db           ← database
 └── LICENSE                    ← license file
 
 ```
