@@ -1,0 +1,4 @@
+ipython-sql
+prettytable
+seaborn
+sqlalchemy>=2.0
