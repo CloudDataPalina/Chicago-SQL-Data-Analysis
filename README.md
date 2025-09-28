@@ -28,7 +28,7 @@ Chicago-SQL-Data-Analysis/
 │   ├── storage_proc1.png
 │   ├── update_procedure.png
 │   └── ... (other .png files)
-├── notebooks/                 ← Jupyter notebooks (English versions)
+├── notebooks/                 ← Jupyter notebooks 
 │   ├── socioeconomic_analysis.ipynb
 │   ├── crime_schools_analysis.ipynb
 │   └── db_objects_db2.ipynb
