@@ -106,6 +106,16 @@ The root folder contains Jupyter Notebooks, SQLite database file, screenshots, v
 
 ---
 
+## 🔎 Key Insights from Analysis
+
+- Neighborhoods with **higher per capita income** show a **significantly lower Hardship Index** — clear inverse correlation.
+- Areas with **high poverty rates** often have **lower average school safety scores**, highlighting social disparities.
+- SQL joins allowed to pinpoint **schools located in high-crime zones**, which can be prioritized for policy measures.
+- The stored procedure in IBM Db2 enables **bulk updates** of school leader scores safely, with built-in validation (COMMIT/ROLLBACK).
+- This project demonstrates how combining **open city data** with **SQL + Python** can provide actionable insights for urban planning.
+
+---
+
 ## 📝 Summary
 - Used **JOIN** to analyze socioeconomic and school data  
 - Created a **VIEW** for simplified access to data  
