@@ -96,14 +96,24 @@ The root folder contains Jupyter Notebooks, SQLite database file, screenshots, v
    ```bash
    pip install -r requirements.txt
    ```
-
-3. ***Open the notebooks***
+   
+3. **Install Jupyter SQL magic (if not already installed)**
+   ```bash
+  pip install ipython-sql
+   ```
+   
+4. **Load the extension in Jupyter (if %sql magic not found)**
+   ```bash
+   %load_ext sql
+   ```
+   
+5. ***Open the notebooks***
 
 - `notebooks/socioeconomic_analysis.ipynb`
 - `notebooks/crime_schools_analysis.ipynb`
 - `notebooks/db_objects_db2.ipynb`
 
-4. ***(Optional) Reproduce Db2 objects***
+6. ***(Optional) Reproduce Db2 objects***
 - Log in to **IBM Db2 Console → Run SQL**  
 - Execute `CREATE VIEW`, `CREATE PROCEDURE` and test calls  
 
