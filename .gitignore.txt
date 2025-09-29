@@ -1,0 +1,15 @@
+```gitignore
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# SQLite databases
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+```
