@@ -99,7 +99,7 @@ The root folder contains Jupyter Notebooks, SQLite database file, screenshots, v
    
 3. **Install Jupyter SQL magic (if not already installed)**
    ```bash
-  pip install ipython-sql
+   pip install ipython-sql
    ```
    
 4. **Load the extension in Jupyter (if %sql magic not found)**
